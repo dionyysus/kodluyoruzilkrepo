@@ -1,6 +1,6 @@
-# Kodluyoruz Ilk Repo
+# Getir iOS Bootcamp Ilk Repo
 
-Bu repo Kodluyoruz Front-End Egitiminde olusturdugumuz ilk repo. Içerisinde bir adet
+Bu repo Getir iOS Bootcamp Programı içerisinde oluşturduğumuz ilk repo. Içerisinde bir adet
 README dosyasi, bir adet de index.html barindiyor
 
 
