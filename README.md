@@ -17,9 +17,11 @@ README dosyasi, bir adet de index.html barindiyor
 Projeyi cloneladiktan sonra Visual Studio Code programinda açiniz.
 
 Linux için:
-・・Linux
+```bash
+Linux
 cd kodluyoruzilkrepo
 code.
+```
 
 ## Contributing]
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi degiştirmek istediğinizi tartışmak için bir konu açınız.
